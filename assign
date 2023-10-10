@@ -1,0 +1,77 @@
+.rk1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-color: transparent;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    backdrop-filter: blur(2px);
+  }
+  
+ 
+  .rk3 {
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(ind.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .rk4{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: silver;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    backdrop-filter: blur(2px);
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: silver;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
+
+
+
+  
+.rk2 {
+    color: silver;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+.bgk{
+  background-image:url(bkg.jpg);
+  background-repeat: no-repeat;
+ background-size: cover;
+}
+
+
+.r1{
+  font-size: 60px;
+    color: rgb(214, 39, 62);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
