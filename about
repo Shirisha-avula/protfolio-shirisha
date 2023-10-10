@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOUT-me</title>
+    
+    <link rel="stylesheet" href="assign.css">
+
+
+</head>
+<body class="bgk">  
+    <br>
+    <br>
+        
+    <div class="rk1">
+        <p><button><a href="index.html">Home</a></button></p>
+      
+      <h1 class="r1">SHRAVANTHI KINI</h1>
+      <h1 class="rk2">Currently completed : B.Tech (CSE)</h1>
+      <h1 class="rk2">Stay : siddipet,Telangana</h1>
+      <h1 class="rk2">Working : Fresher</h1>
+      <h1 class="rk2">University : kakatiya university</h1>
+      <p class="rk3"><b>BHARAT INTERN</b></p>
+    <br>
+        
+      
+      
+    </div> 
+
+    <br>
+    <br>
+    <br>
+    <div class="rk1">
+        <br>
+      
+        <h1 class="rk2">CERTIFICATION/QUALIFICATION</h1>
+        <br>
+    
+        <p class="rk4"><b>PYTHON</b></p>
+        <p class="rk4"><b>JAVA</b></p>
+        <p class="rk4"><b>WEB DEVELOPMENT</b></p>
+        <p class="rk4"><b>DATA STRUCTURE</b></p>
+        <p class="rk4"><b>DBMS</b></p>
+
+    <br>
+      
+    </div> 
+    <br><br><br>
+    </div>
+    
+</body>
+</html>
